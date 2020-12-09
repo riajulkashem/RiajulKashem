@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riajulkashem@gmail.com)](mailto:riajulkashem@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/RiajulKashem/)](https://github.com/RiajulKashem/)
 
-I'm a Programmer💻. I'm Experienced with all stages of the development cycle for dynamic web projects and windows applications. Well-versed in numerous programming languages including Java, Python, JavaScript, SQL. I have experience in developing and implementing REST and SOAP APIs in applications. 
+I'm a  Software Engineer, I have proficiency in Python, Django, Rest API, PostgreSQL, Git, Docker & Linux. Currently working at [Tiger Park](https://tiger-park.com/)
 
 ## Languages, Frameworks and Technolgies
 
@@ -24,15 +24,8 @@ I'm a Programmer💻. I'm Experienced with all stages of the development cycle f
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 
 
-
-## About me 
-
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
-- 🔭 I’m currently working on @WebProjects
 
 ![Riajul's github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&show_icons=true&hide_border=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
 
-
----
-[![Twitter Follow](https://img.shields.io/twitter/follow/Riajul_Kashem?style=social)](https://twitter.com/riajulkashem)
