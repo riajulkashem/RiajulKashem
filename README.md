@@ -12,7 +12,7 @@
 
 I'm a  Software Engineer, I have proficiency in Python, Django, Rest API, PostgreSQL, Git, Docker & Linux. Currently working at [Tiger Park](https://tiger-park.com/)
 
-## Languages, Frameworks and Technolgies
+## Languages, Frameworks and Technologies
 
 
 <table>
