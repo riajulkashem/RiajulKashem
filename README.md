@@ -14,14 +14,111 @@ I'm a  Software Engineer, I have proficiency in Python, Django, Rest API, Postgr
 
 ## Languages, Frameworks and Technolgies
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+      <br>Python
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
+    </td>
+    <td align="center">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+      <br>Vue
+    </td>
+    <td align="center">
+      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <br>React
+    </td>
+    <td align="center">
+      <img alt="tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
+      <br>Tailwind
+    </td>
+    <td align="center">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+      <br>Bootstrap
+    </td>
+    <td align="center">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+      <br>jQuery
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+      <br>Docker
+    </td>
+    <td align="center">
+      <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+      <br>Jenkins
+    </td>
+    <td align="center">
+      <img alt="prometheus" height=64px src="https://cdn.worldvectorlogo.com/logos/prometheus.svg">
+      <br>Prometheus
+    </td>
+    <td align="center">
+      <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
+      <br>Grafana
+    </td>
+    <td align="center">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
+      <br>AWS
+    </td>
+    <td align="center">
+      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
+      <br>Firebase
+    </td>
+    <td align="center">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+      <br>PostgreSQL
+    </td>
+    <td align="center">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>BASH
+    </td>
+    <td align="center">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+      <br>Nginx
+    </td>
+    <td align="center">
+      <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
+      <br>CentOS
+    </td>
+    <td align="center">
+      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+      <br>Debian
+    </td>
+    <td align="center">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
+      <br>PyCharm
+    </td>
+    <td align="center">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
+      <br>WebStorm
+    </td>
+    <td align="center">
+      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg">
+      <br>Dart
+    </td>
+    <td align="center">
+      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+      <br>Flutter
+    </td>
+  </tr>
+</table>
 
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
