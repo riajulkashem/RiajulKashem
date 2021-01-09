@@ -8,11 +8,8 @@
 <a href="https://www.instagram.com/riajul.kashem" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)](https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riajulkashem@gmail.com)](mailto:riajulkashem@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/RiajulKashem/)](https://github.com/RiajulKashem/)
 
-I'm a  Software Engineer, I have proficiency in Python, Django, Rest API, PostgreSQL, Git, Docker & Linux. Currently working at [Tiger Park](https://tiger-park.com/)
-
-## Languages, Frameworks and Technologies
+## Languages, Frameworks and Technologies I Like
 
 
 <table>
