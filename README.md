@@ -72,10 +72,6 @@ I'm a  Software Engineer, I have proficiency in Python, Django, Rest API, Postgr
       <br>AWS
     </td>
     <td align="center">
-      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg">
-      <br>Firebase
-    </td>
-    <td align="center">
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
