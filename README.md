@@ -9,6 +9,7 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)](https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riajulkashem@gmail.com)](mailto:riajulkashem@gmail.com)
 
+
 ## Languages, Frameworks and Technologies I Like
 
 
@@ -111,3 +112,4 @@
 ![Riajul's github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&show_icons=true&hide_border=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
 
+### Profile Visitor So Far ![Visitor Count](https://profile-counter.glitch.me/RiajulKashem/count.svg)
