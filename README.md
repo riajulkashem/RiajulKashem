@@ -8,6 +8,7 @@
 <a href="https://www.instagram.com/riajul.kashem" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)](https://api.whatsapp.com/send?phone=+8801777824258&text=Riajul)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:riajulkashem@gmail.com)](mailto:riajulkashem@gmail.com)
+<a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=RiajulKashem"></a>
 
 
 ## Languages, Frameworks and Technologies I Like
@@ -112,4 +113,6 @@
 ![Riajul's github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&show_icons=true&hide_border=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
 
-### Profile Visitor So Far ![Visitor Count](https://profile-counter.glitch.me/RiajulKashem/count.svg)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
+<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiajulKashem" alt="RiajulKashem" />
