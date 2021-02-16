@@ -33,20 +33,20 @@
       <br>Vue
     </td>
     <td align="center">
-      <img alt="react" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <br>React
-    </td>
-    <td align="center">
-      <img alt="tailwind" height=64px src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg">
-      <br>Tailwind
-    </td>
-    <td align="center">
       <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
       <br>Bootstrap
     </td>
     <td align="center">
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
+    </td>
+    <td align="center">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <br>BASH
+    </td>
+     <td align="center">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
+      <br>Nginx
     </td>
   </tr>
   <tr>
@@ -78,31 +78,9 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-      <br>BASH
-    </td>
-    <td align="center">
-      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
-      <br>Nginx
-    </td>
     <td align="center">
       <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
       <br>CentOS
-    </td>
-    <td align="center">
-      <img alt="debian" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
-      <br>Debian
-    </td>
-    <td align="center">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">
-      <br>PyCharm
-    </td>
-    <td align="center">
-      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-      <br>WebStorm
     </td>
   </tr>
 </table>
