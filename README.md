@@ -21,12 +21,12 @@
       <br>Python
     </td>
     <td align="center">
-      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
-      <br>Django
-    </td>
-    <td align="center">
       <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
       <br>Javascript
+    </td>
+    <td align="center">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
+      <br>Django
     </td>
     <td align="center">
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -40,14 +40,14 @@
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>BASH
-    </td>
-     <td align="center">
+    </td> -->
+<!--      <td align="center">
       <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
       <br>Nginx
-    </td>
+    </td> -->
   </tr>
   <tr>
     <td align="center">
@@ -58,14 +58,14 @@
       <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
       <br>Jenkins
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img alt="prometheus" height=64px src="https://cdn.worldvectorlogo.com/logos/prometheus.svg">
       <br>Prometheus
     </td>
     <td align="center">
       <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg">
       <br>Grafana
-    </td>
+    </td> -->
     <td align="center">
       <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg">
       <br>AWS
@@ -78,10 +78,10 @@
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
       <br>CentOS
-    </td>
+    </td> -->
   </tr>
 </table>
 
