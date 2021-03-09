@@ -88,9 +88,6 @@
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
 
-![Riajul's github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&show_icons=true&hide_border=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&theme=highcontrast&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
 <img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiajulKashem" alt="RiajulKashem" />
