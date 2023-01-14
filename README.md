@@ -28,7 +28,7 @@
       <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg">
       <br>Django
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
       <br>Vue
     </td>
@@ -40,16 +40,16 @@
       <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
       <br>jQuery
     </td>
-<!--     <td align="center">
+ <td align="center">
       <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
       <br>BASH
-    </td> -->
-<!--      <td align="center">
+    </td>
+  <td align="center">
       <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg">
       <br>Nginx
-    </td> -->
+    </td>
   </tr>
-  <tr>
+  <tr> -->
     <td align="center">
       <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       <br>Docker
@@ -74,11 +74,11 @@
       <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
       <br>PostgreSQL
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
       <br>MySQL
-    </td>
-<!--     <td align="center">
+    </td> 
+ <td align="center">
       <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg">
       <br>CentOS
     </td> -->
@@ -87,8 +87,3 @@
 
 
 :heart: Programming | :black_heart: Music | :blue_heart: Traveling 
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=RiajulKashem&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=RiajulKashem&layout=compact)
-<img style="width: 50%;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RiajulKashem" alt="RiajulKashem" />
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RiajulKashem) 
